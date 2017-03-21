@@ -1,0 +1,21 @@
+Q1 What is a dynamic variables?
+Q2 Medium-size application development?
+Q3 Standard array and file handling algorithms?
+Q4 User-defined data structures?
+Q5 Describe two development methodologies and their application?
+Q6 Outline the principles of language development?
+Q7 Outline the basic principles of project management?
+Q8 Describe the key features of the software development life cycle (SDLC)?
+Q9 Describe the importance of software specifications?
+Q10 Identify the methods and importance of version control?
+A1 Dynamic Variable: A dynamic variable is a variable that is not given a value until run-time. The information that the dynamic variable will store will be set by the user.
+A2 Medium-size application development is the development of an application that doesnt meet certian specs to be a large size application and has to many to be low sized.
+A3 A standard array is a collection of data. An array holds data that is of the same type. Arrays use memory locations for each element of the array. A file is a sequance of bytes that will hold information, file handling retrives the information and then allows the user to do all sorts of differnet things with that infomation.
+A4 A structure is a group of data that can have differenet types of data in it. While the data might have different types the data will be seen as a single entity.
+A5 Waterfall is a methodolgy that is sequential in its development approach tackling one step at a time. The process is considered to be a process flowing steadly downwards hence the name waterfall. The steps are usually (1) Requirement Analysis, (2) Software design, (3) Implementation, (4) Testing, (5) Intergration, (6) Deployment, (7)Maintenance.
+   Extreme programming is another methodolgy that is a type of agile software development. It supports short development cycles and frequent releases. It's aims are to decrease cost and the ability change depending on the requirments.
+A6 (1) Dont Repeat Yourself (DRY) one of the most important. (2) KISS (Keep it simple, stupid) should always try avoid complexity. (3) Avoid YAGNI (You aren't going to need it). (4) Dont make me think : Code should be easy to read and understand. (5) Do as little as you can: Helps you keep on the path of things being simple.
+A7 (1) Stucture of the project such as goal,timeline and Milestones(2)Defining the project is massive and can determine wether the project will fail or not.(3) Having clear Goals.(4) Risk Recognition: try to find any risks to the project and deal with them.(5) Project Mangers responsibilities: The project manager is responsable for nearly everything and its important that he stays on top of things and make sure the project is moving along nice and smoothly.
+A8 The SDLC is made up of different phases. The phases are arranged in order of how important they are and when they are going to start. Phases do the have the ability to overlap each other. SDLC is made up of 6 phases most of the time which are Planning, Defining, Designing, Building, Testing, Deployment.
+A9 Software specification is really imporatant because without it you will only have a tiny bit of infomation about what the client wants maybe not even that. The specifications determin if the project is going to be successful or not. Specifications include what the project will do, how much money and time, key fetures etc.
+A10 Version control is important because it allows you to see what has been done in the past, what changes have been made and also what needs to be added. It allows you to reverse changes as well. One method would be the lock-modify-unlock which stops mulitple people from working on one piece of code at once. So before some one makes changes they must lock that file modify then when finished unlock.It becomes easy to see who did what and what has to be done or fixed.
