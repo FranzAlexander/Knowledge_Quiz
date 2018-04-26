@@ -188,7 +188,7 @@ void getSwitchCase(int userInput, T &sortedArr)
 }
 
 template <class T>
-void chooseAnswer(T &sortedArr) //Method that has the switch case for when the user chooses the select option.
+void chooseAnswer(T &sortedArr) //Method that checks user input to see what should be outputed.
 {
 	int userInput;
 	string print;
